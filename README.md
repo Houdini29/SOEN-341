@@ -25,8 +25,7 @@ Finally, once the user is ready, they can then check out to a payment page where
 * Vithujanan Vigneswaran [Houdini29]
 
 ## Technologies
-* JavaScript
 * HTML & CSS
-* Python
-* SQL
+* Javascript
 * Bootstrap
+* React.js
